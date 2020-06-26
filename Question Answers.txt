@@ -1,0 +1,29 @@
+## Interview Questions
+
+1. How would you describe acessibility on the web to someone new to programming?
+
+    Accessibility on the web is the method of creating a website that accomodates people of
+    all abilities and differences. For instance, creating a site with semantic
+    HTML tags, so that a blind user may be able to easily use a screen reader to relay
+    the information on your page.
+
+2. Talk about 3 different things you can do to ensure your website is accessible. 
+
+    -Using semantic HTML tags, so that your site is more friendly for screen readers
+    -Using symbols along with color, so that you can relay important information (like
+     error messages) to individuals that may be color blind or need to use your site in
+     greyscale
+    -Using scalable forms of measurement when designing your pages, so that users who need
+     to adjust their screen's size or resolution for easier viewing can still enjoy your
+     site
+
+3. How would you explain the concept of a variable to someone new to programming?
+
+    A variable is sort of like a storage container for your code. It is a way to store 
+    data so that you can access it easily later on. Some variables can be changed, and others
+    cannot.
+
+4. What is the purpose of using functions in code?
+
+    Functions are like small computer programs. They are a way to make your code
+    perform certain tasks.
